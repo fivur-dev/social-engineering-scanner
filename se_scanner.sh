@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================================
 # SE-SCANNER (Motor heurístico de análisis cognitivo)
-# Autor: Fabián Ubilla (@fivur-dev)  | GitHub: FivuR
+# Autor: F. Ubilla (@fivur-dev)  | GitHub: FivuR
 # Versión: 1.0
 # Descripción: Herramienta de triaje cognitivo para análisis de ingeniería social.
 # Creación: Enero 2026
